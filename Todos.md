@@ -1,9 +1,13 @@
-### Todos
+# Todos
 
 ---
 
+## Setup the following':'
 
-- [x] Sample Todo
-- [ ] Sample Todo
+- [ ] VM
+- [ ] Linux
+- [ ] Git
+- [ ] NodeJS
+- [ ] VSCode
 
 ---
