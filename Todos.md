@@ -2,7 +2,7 @@
 
 ---
 
-## Setup the following ':'
+## Setup the following
 
 - [ ] VM
 - [ ] Linux
