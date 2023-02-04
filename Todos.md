@@ -1,7 +1,5 @@
 # Todos
 
----
-
 ## Setup the following
 
 - [ ] VM
