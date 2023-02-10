@@ -2,10 +2,14 @@
 
 ## Setup the following
 
-- [ ] VM
-- [ ] Linux
-- [ ] Git
-- [ ] NodeJS
-- [ ] VSCode
+- [x] VM
+- [x] Linux
+- [x] Git
+- [x] NodeJS
+- [x] VSCode
+
+## Documentation
+
+- [ ] Chapter 1
 
 ---
