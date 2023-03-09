@@ -12,3 +12,11 @@
 # Components
 
 - [ ] Wires
+- [x] Miniature Circuit Breaker
+- [ ] Outlet
+- [ ] 3 Way Switch
+- [ ] Light Bulb Receptacle
+- [ ] Light Bulb
+- [ ] Protoboard
+- [ ] Female Pin Headers
+- [ ] Male Pin Headers

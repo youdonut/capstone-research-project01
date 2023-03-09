@@ -1,4 +1,4 @@
 # Task 1
 
-- ESP32 Microcontroller
-- PIR Motion Sensor
+- [x] ESP32 Microcontroller
+- [x] PIR Motion Sensor
